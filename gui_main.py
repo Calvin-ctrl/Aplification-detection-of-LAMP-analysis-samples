@@ -2,7 +2,6 @@
 """
 Created on Sat Jun  3
 
-@author: CAlvin M.
 """
 #pip install tkinter
 #pip install reportlib
